@@ -1,4 +1,4 @@
-# qr0922
+# vu3-cli模版
 
 ## Project setup
 ```
