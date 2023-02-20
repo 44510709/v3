@@ -15,10 +15,8 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
+### pxtorem 
 ```
-yarn lint
+ 直接使用px单位 编译自动转换rem
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
